@@ -1,0 +1,36 @@
+[
+    {
+      "id": 1,
+      "role": "Secondary School Certification",
+      "organisation": "",
+      "startDate": "Vedant International High School",
+      "location": "Mira Road, Mumbai",
+      "experiences": [
+        "Major: --",
+        "80%|Completed"
+      ]
+      
+    },
+    {
+      "id": 2,
+      "role": "Higher Secondary Certification",
+      "organisation": "",
+      "startDate": "Thakur College of Science & Commerce",
+      "location": "Kandivali, Mumbai",
+      "experiences": [
+        "Major: PCM - Computer Science",
+        "80%|Completed"
+      ]
+    },
+    {
+      "id": 3,
+      "role": "Bachelor of Technology",
+      "organisation": "",
+      "startDate": "Thakur College of Engineering & Technology",
+      "location": "Kandivali, Mumbai",
+      "experiences": [
+        "Major: Information & Technology",
+        "Undergraduate"
+      ]
+    }
+  ]
